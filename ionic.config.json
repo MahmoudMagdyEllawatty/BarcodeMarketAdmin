@@ -1,5 +1,7 @@
 {
   "name": "Market",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
